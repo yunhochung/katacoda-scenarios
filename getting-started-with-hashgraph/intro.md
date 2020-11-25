@@ -5,5 +5,5 @@ Hedera Hashgraph는 빠르고 공정하고 안전한 애플리케이션 개발�
 
 * Hedera Hashgraph 개요 - https://www.slideshare.net/secret/cjZHc3OoZ1KtQ4
 
-![0](images/0.png)
+![0](https://github.com/yunhochung/katacoda-scenarios/raw/master/getting-started-with-hashgraph/images/0.png)
 
