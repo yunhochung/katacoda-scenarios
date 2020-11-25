@@ -1,6 +1,6 @@
 {
   "title": "Hedera Hashgraph 시작하기",
-  "description": "Hedera Hashgraph",
+  "description": "Hedera Hashgraph 시작하기(Getting Started with Hedera Hashgraph)",
   "difficulty": "beginner",
   "time": "2 minutes",
   "details": {
@@ -11,9 +11,6 @@
     "intro": {
       "text": "intro.md",
       "credits": ""
-    },
-    "finish": {
-      "text": "finish.md"
     }
   },
   "environment": {
