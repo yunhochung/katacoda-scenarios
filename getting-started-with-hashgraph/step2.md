@@ -6,3 +6,5 @@
 
 `ls `{{execute}}
 
+`.env `{{open}}
+
