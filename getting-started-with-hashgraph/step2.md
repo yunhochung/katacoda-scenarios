@@ -6,5 +6,7 @@
 
 `ls `{{execute}}
 
-`meetup/202010/hands-on/getting_started/.env `{{open}}
+`.env `{{open}}
+
+`npm init -y `{{execute}}
 

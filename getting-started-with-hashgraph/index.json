@@ -21,7 +21,8 @@
   },
   "environment": {
     "showide": true,
-    "uilayout": "terminal"
+    "uilayout": "terminal",
+    "uieditorpath": "/root/meetup/202010/hands-on/getting_started"
   },
   "backend": {
     "imageid": "nodejs:12"
