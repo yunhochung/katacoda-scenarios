@@ -8,7 +8,7 @@ Hedera 계정은 Private Key, Public Key, Account ID로 구성 되며 아래 사
 
 ![1](https://github.com/yunhochung/katacoda-scenarios/raw/master/getting-started-with-hashgraph/images/2.png)
 
-
+발급 받은 accountId, publicKey, privateKey 를  따로 복사해 놓습니다.
 
 ```json
 {
@@ -25,5 +25,3 @@ Hedera 계정은 Private Key, Public Key, Account ID로 구성 되며 아래 사
     }
 }
 ```
-
-## 
