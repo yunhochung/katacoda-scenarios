@@ -2,9 +2,9 @@
 
 `git clone https://github.com/hlkug/meetup.git`{{execute}}
 
-`cd meetup/202010/hands-on `{{execute}}
+`cd meetup/202010/hands-on/getting_started `{{execute}}
 
 `ls `{{execute}}
 
-`.env `{{open}}
+`meetup/202010/hands-on/getting_started/.env `{{open}}
 
