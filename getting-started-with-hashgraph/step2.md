@@ -8,15 +8,19 @@
 
 ## 2.2 Account 정보 설정
 
-.env 파일에 [Step 1]에 복사해 놓은 Account 정보를 설정합니다.
+IDE 탭을 선택한 후 .env 파일을 오픈합니다.
+
+![1](https://github.com/yunhochung/katacoda-scenarios/raw/master/getting-started-with-hashgraph/images/20.png)
 
 `.env `{{open}}
+
+.env 파일에 [Step 1]에 복사해 놓은 Account 정보를 설정합니다.
 
 ![1](https://github.com/yunhochung/katacoda-scenarios/raw/master/getting-started-with-hashgraph/images/5.png)
 
 ## 2.3 Node.js 패키지(라이브러리) 설치
 
-VS Code에서 Terminal 창을 오픈한 후 실습에 필요한 패키지를 설치합니다.
+실습에 필요한 패키지를 설치합니다.
 
 * 초기화
 

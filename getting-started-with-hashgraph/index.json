@@ -20,6 +20,7 @@
     }
   },
   "environment": {
+    "hideHiddenFiles": true,
     "showide": true,
     "uilayout": "terminal",
     "uieditorpath": "/root/meetup/202010/hands-on/getting_started"
