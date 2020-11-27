@@ -2,7 +2,7 @@
   "title": "Hedera Hashgraph 시작하기",
   "description": "Hedera Hashgraph 시작하기(Getting Started with Hedera Hashgraph)",
   "difficulty": "beginner",
-  "time": "2 minutes",
+  "time": "30 minutes",
   "details": {
     "steps": [{
       "title": "Step 1. Account 생성",

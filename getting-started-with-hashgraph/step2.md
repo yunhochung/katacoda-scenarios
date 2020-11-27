@@ -8,9 +8,13 @@
 
 ## 2.2 Account 정보 설정
 
-IDE 탭을 선택한 후 .env 파일을 오픈합니다.
+IDE 탭을 선택한 후 .env 파일을 오픈합니다. 인터넷/PC 환경에 따라 IDE(VS Code) 로딩 시간이 1~2분 소요될 수 있습니다.
 
 ![1](https://github.com/yunhochung/katacoda-scenarios/raw/master/getting-started-with-hashgraph/images/20.png)
+
+* 로딩 화면
+
+![1](https://github.com/yunhochung/katacoda-scenarios/raw/master/getting-started-with-hashgraph/images/21.png)
 
 `.env `{{open}}
 
