@@ -1,10 +1,4 @@
-# Interactive Katacoda Scenarios
 
-[![](http://shields.katacoda.com/katacoda/yunhochung/count.svg)](https://www.katacoda.com/yunhochung "Get your profile on Katacoda.com")
 
-Visit https://www.katacoda.com/yunhochung to view the profile and interactive scenarios
+# [Hedera Hashgraph 시작하기](https://www.katacoda.com/yunhochung/scenarios/getting-started-with-hashgraph)
 
-### Writing Scenarios
-Visit https://www.katacoda.com/docs to learn more about creating Katacoda scenarios
-
-For examples, visit https://github.com/katacoda/scenario-example
