@@ -11,8 +11,11 @@
     {
       "title": "Step 2. 실습 환경 구성",
       "text": "step2.md"
+    },
+    {
+      "title": "Step 3. Cryptocurrency",
+      "text": "step3.md"
     }
-
   ],
     "intro": {
       "text": "intro.md",
