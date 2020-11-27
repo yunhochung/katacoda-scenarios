@@ -4,7 +4,7 @@
 
 `cd meetup/202010/hands-on/getting_started `{{execute}}
 
-`ls `{{execute}}
+`ls -a `{{execute}}
 
 ## 2.2 Account 정보 설정
 

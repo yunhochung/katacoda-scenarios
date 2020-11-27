@@ -15,6 +15,18 @@
     {
       "title": "Step 3. Cryptocurrency",
       "text": "step3.md"
+    },
+    {
+      "title": "Step 4. File Service",
+      "text": "step4.md"
+    },
+    {
+      "title": "Step 5. Smart Contract",
+      "text": "step5.md"
+    },
+    {
+      "title": "Step 6. Consensus Service",
+      "text": "step6.md"
     }
   ],
     "intro": {
