@@ -1,0 +1,12 @@
+{
+    "title": "Hedera Hashgraph",
+    "description": "Hedera Hashgraph 플랫폼 기반의 실습 과정입니다.",
+    "icon": "fa-katacoda",
+    "courses": [
+      {
+        "course_id": "getting-started-with-hashgraph",
+        "title": "Hedera Hashgraph 시작하기",
+        "description": "Hedera Hashgraph 시작하기(Getting Started with Hedera Hashgraph)"
+      }
+    ]
+  }
