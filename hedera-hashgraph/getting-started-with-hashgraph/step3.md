@@ -27,7 +27,7 @@ getBalance();
 
 ## 3.2 HBar(tinybar) 송금
 
-<img src="https://github.com/yunhochung/katacoda-scenarios/raw/master/getting-started-with-hashgraph/images/7.png" alt="1" style="zoom:67%;" />
+<img src="https://github.com/yunhochung/katacoda-scenarios/raw/master/hedera-hashgraph/getting-started-with-hashgraph/images/7.png" alt="1" style="zoom:67%;" />
 
 * 파일: `cryptocurrency/transferhbar.js  `{{open}}
 
