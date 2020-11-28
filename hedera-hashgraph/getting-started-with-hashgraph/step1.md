@@ -2,11 +2,11 @@ Hedera 계정은 Private Key, Public Key, Account ID로 구성 되며 아래 사
 
 - [https://portal.hedera.com](https://portal.hedera.com/)
 
-![1](https://github.com/yunhochung/katacoda-scenarios/raw/master/getting-started-with-hashgraph/images/1.png)
+![1](https://github.com/yunhochung/katacoda-scenarios/raw/master/hedera-hashgraph/getting-started-with-hashgraph/images/1.png)
 
 회원 가입 후 실습을 위해 테스트넷(Testnet) Account를 발급 받습니다.
 
-![1](https://github.com/yunhochung/katacoda-scenarios/raw/master/getting-started-with-hashgraph/images/2.png)
+![1](https://github.com/yunhochung/katacoda-scenarios/raw/master/hedera-hashgraph/getting-started-with-hashgraph/images/2.png)
 
 발급 받은 accountId, publicKey, privateKey 를  따로 복사해 놓습니다.
 

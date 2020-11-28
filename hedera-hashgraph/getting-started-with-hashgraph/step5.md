@@ -1,4 +1,4 @@
-![1](https://github.com/yunhochung/katacoda-scenarios/raw/master/getting-started-with-hashgraph/images/11.png)
+![1](https://github.com/yunhochung/katacoda-scenarios/raw/master/hedera-hashgraph/getting-started-with-hashgraph/images/11.png)
 
 ## 5.1 스마트 컨트랙트 배포 및 함수 실행
 
@@ -124,4 +124,4 @@ main();
   * https://testnet.dragonglass.me/hedera/accounts/{본인 Account ID}
   * 예> https://testnet.dragonglass.me/hedera/accounts/0.0.1688
 
-![1](https://github.com/yunhochung/katacoda-scenarios/raw/master/getting-started-with-hashgraph/images/12.png)
+![1](https://github.com/yunhochung/katacoda-scenarios/raw/master/hedera-hashgraph/getting-started-with-hashgraph/images/12.png)

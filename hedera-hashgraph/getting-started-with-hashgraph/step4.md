@@ -1,4 +1,4 @@
-![1](https://github.com/yunhochung/katacoda-scenarios/raw/master/getting-started-with-hashgraph/images/10.png)
+![1](https://github.com/yunhochung/katacoda-scenarios/raw/master/hedera-hashgraph/getting-started-with-hashgraph/images/10.png)
 
 ## 4.1 파일 생성 & 읽기
 

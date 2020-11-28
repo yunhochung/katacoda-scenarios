@@ -1,8 +1,8 @@
-![1](https://github.com/yunhochung/katacoda-scenarios/raw/master/getting-started-with-hashgraph/images/13.png)
+![1](https://github.com/yunhochung/katacoda-scenarios/raw/master/hedera-hashgraph/getting-started-with-hashgraph/images/13.png)
 
-![1](https://github.com/yunhochung/katacoda-scenarios/raw/master/getting-started-with-hashgraph/images/15.png)
+![1](https://github.com/yunhochung/katacoda-scenarios/raw/master/hedera-hashgraph/getting-started-with-hashgraph/images/15.png)
 
-![1](https://github.com/yunhochung/katacoda-scenarios/raw/master/getting-started-with-hashgraph/images/14.png)
+![1](https://github.com/yunhochung/katacoda-scenarios/raw/master/hedera-hashgraph/getting-started-with-hashgraph/images/14.png)
 
 ## 6.1 토픽 생성 및 Submit/Subscribe
 
@@ -72,7 +72,7 @@ main();
   * 예> https://testnet.dragonglass.me/hedera/accounts/0.0.1688
 
 
-  ![1](https://github.com/yunhochung/katacoda-scenarios/raw/master/getting-started-with-hashgraph/images/16.png)
+  ![1](https://github.com/yunhochung/katacoda-scenarios/raw/master/hedera-hashgraph/getting-started-with-hashgraph/images/16.png)
 
   
 
@@ -81,9 +81,9 @@ main();
   * https://explorer.kabuto.sh/testnet/id/{본인 Account ID}
   * 예> https://explorer.kabuto.sh/testnet/id/0.0.1688
 
-  ![1](https://github.com/yunhochung/katacoda-scenarios/raw/master/getting-started-with-hashgraph/images/17.png)
+  ![1](https://github.com/yunhochung/katacoda-scenarios/raw/master/hedera-hashgraph/getting-started-with-hashgraph/images/17.png)
 
-  ![1](https://github.com/yunhochung/katacoda-scenarios/raw/master/getting-started-with-hashgraph/images/18.png)
+  ![1](https://github.com/yunhochung/katacoda-scenarios/raw/master/hedera-hashgraph/getting-started-with-hashgraph/images/18.png)
 
-  ![1](https://github.com/yunhochung/katacoda-scenarios/raw/master/getting-started-with-hashgraph/images/19.png)
+  ![1](https://github.com/yunhochung/katacoda-scenarios/raw/master/hedera-hashgraph/getting-started-with-hashgraph/images/19.png)
 

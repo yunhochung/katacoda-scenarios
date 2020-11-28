@@ -1,4 +1,4 @@
-![1](https://github.com/yunhochung/katacoda-scenarios/raw/master/getting-started-with-hashgraph/images/6.png)
+![1](https://github.com/yunhochung/katacoda-scenarios/raw/master/hedera-hashgraph/getting-started-with-hashgraph/images/6.png)
 
 ## 3.1 Balance확인
 
@@ -79,8 +79,9 @@ transferHbar();
   * https://testnet.dragonglass.me/hedera/accounts/{본인 Account ID}
   * 예> https://testnet.dragonglass.me/hedera/accounts/0.0.1688
 
-![1](https://github.com/yunhochung/katacoda-scenarios/raw/master/getting-started-with-hashgraph/images/8.png)
+![1](https://github.com/yunhochung/katacoda-scenarios/raw/master/hedera-hashgraph/getting-started-with-hashgraph/images/8.png)
 
 * 트랜잭션 수수료
 
-![1](https://github.com/yunhochung/katacoda-scenarios/raw/master/getting-started-with-hashgraph/images/9.png)
+![1](https://github.com/yunhochung/katacoda-scenarios/raw/master/hedera-hashgraph/getting-started-with-hashgraph/images/9.png)
+
