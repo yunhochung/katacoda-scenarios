@@ -62,7 +62,7 @@ main();
 
   `cd ~/meetup/202010/hands-on/getting_started/consensusservice `{{execute}}
 
-  `node submit_subsccribe.js `{{execute}}
+  `node submit_subscribe.js `{{execute}}
   
 * 트랜잭션 확인
 
