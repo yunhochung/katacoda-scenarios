@@ -2,7 +2,7 @@
 
 `\rm -rf hedera-hashgraph && git clone https://github.com/yunhochung/hedera-hashgraph.git `{{execute}}
 
-`cd hedera-hashgraph/hedera-hashgraph `{{execute}}
+`cd hedera-hashgraph/hedera-token-service `{{execute}}
 
 `ls -a `{{execute}}
 
@@ -14,7 +14,7 @@ IDE 탭을 선택한 후 .env 파일을 오픈합니다. ***인터넷/PC 환경�
 
 * 로딩 후 초기 화면
 
-![1](https://github.com/yunhochung/katacoda-scenarios/raw/master/hedera-hashgraph/getting-started-with-hashgraph/images/21.png)
+![1](https://github.com/yunhochung/katacoda-scenarios/raw/master/hedera-hashgraph/getting-started-with-hedera-token-service/images/1.png)
 
 `.env `{{open}}
 
@@ -25,10 +25,6 @@ IDE 탭을 선택한 후 .env 파일을 오픈합니다. ***인터넷/PC 환경�
 ## 2.3 Node.js 패키지(라이브러리) 설치
 
 실습에 필요한 패키지를 설치합니다.
-
-* 초기화
-
-`npm init -y `{{execute}}
 
 * Hedera SDK 라이브러리 다운로드
 

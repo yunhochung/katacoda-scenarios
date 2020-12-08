@@ -11,6 +11,26 @@
     {
       "title": "Step 2. 실습 환경 구성",
       "text": "step2.md"
+    },
+    {
+      "title": "Step 3. 토큰 생성",
+      "text": "step3.md"
+    },
+    {
+      "title": "Step 4. 토큰 정보 조회",
+      "text": "step4.md"
+    },
+    {
+      "title": "Step 5. 토큰 전송",
+      "text": "step5.md"
+    },
+    {
+      "title": "Step 6. 토큰 밸런스 삭제",
+      "text": "step6.md"
+    },
+    {
+      "title": "Step 7. 토큰 삭제",
+      "text": "step7.md"
     }
   ],
     "intro": {
