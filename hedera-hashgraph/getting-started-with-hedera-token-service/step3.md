@@ -9,6 +9,10 @@ resp = await new TokenCreateTransaction()
     .setExpirationTime(Timestamp.fromDate(Instant.now().plus(Duration.ofDays(90)).toString())) // 만기일. 90일후
     .setInitialSupply(1000000) // 토큰 갯수
     .setDecimals(0)
+    .setKycKey(client.operatorPublicKey)
+    .setWipeKey(client.operatorPublicKey)
+    .setAdminKey(client.operatorPublicKey) // 토큰 삭제시 필요. 미설정시 IMMUTABLE (NFT)
+
     .execute(client);
 
 const tokenId = (await resp.getReceipt(client)).tokenId;
