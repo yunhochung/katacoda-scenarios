@@ -5,18 +5,11 @@
 * 파일: `cryptocurrency/getbalance.js  `{{open}}
 
 ```javascript
-const HederaClient = require('./hedera-client');
-const { AccountBalanceQuery } = require('@hashgraph/sdk');
+const balance = new AccountBalanceQuery()
+    .setAccountId(process.env.ACCOUNT_ID)
+    .execute(HederaClient);
 
-async function getBalance() {
-    const balance = new AccountBalanceQuery()
-        .setAccountId(process.env.ACCOUNT_ID)
-        .execute(HederaClient);
-        
-    console.log(`${HederaClient._operatorAccount} balance = ${(await balance).value()}`);
-}
-
-getBalance();
+console.log(`${HederaClient._operatorAccount} balance = ${(await balance).value()}`);
 ```
 
 * 실행
@@ -32,28 +25,14 @@ getBalance();
 * 파일: `cryptocurrency/transferhbar.js  `{{open}}
 
 ```javascript
-require('dotenv').config();
-const HederaClient = require('./hedera-client');
+const transactionId = await new CryptoTransferTransaction()
+    .addSender(process.env.ACCOUNT_ID, 100)
+    .addRecipient('0.0.3', 100)
+    .execute(myClient);
+console.log('tx id:', transactionId);
 
-const { Client, CryptoTransferTransaction } = require("@hashgraph/sdk");
-
-async function transferHbar() {
-    const myClient =  HederaClient; //Client.forTestnet();
-    myClient.setOperator(process.env.ACCOUNT_ID, process.env.PRIVATE_KEY);
-
-    const transactionId = await new CryptoTransferTransaction()
-        .addSender(process.env.ACCOUNT_ID, 100)
-        .addRecipient('0.0.3', 100)
-        .execute(myClient);
-    console.log('tx id:', transactionId);
-    // const transactionReceipt = await transactionId.getReceipt(myClient);
-    // console.log('reciept: ', transactionReceipt);
-
-    const record = await transactionId.getRecord(myClient);
-    console.log('reciept: ', record);
-}
-
-transferHbar();
+const record = await transactionId.getRecord(myClient);
+console.log('reciept: ', record);
 ```
 
 * 실행
