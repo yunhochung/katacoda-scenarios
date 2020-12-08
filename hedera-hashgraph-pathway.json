@@ -7,6 +7,11 @@
         "course_id": "getting-started-with-hashgraph",
         "title": "Hedera Hashgraph 시작하기",
         "description": "Hedera Hashgraph 시작하기(Getting Started with Hedera Hashgraph)"
+      },
+      {
+        "course_id": "getting-started-with-hedera-token-service",
+        "title": "Hedera Token Service(HTS) 시작하기",
+        "description": "Hedera Token Service(HTS) 시작하기(Getting Started with Hedera Token Service)"
       }
     ]
   }
