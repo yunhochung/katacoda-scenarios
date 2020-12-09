@@ -21,9 +21,10 @@
   "environment": {
     "hideHiddenFiles": false,
     "showide": true,
-    "uilayout": "terminal"
+    "uilayout": "terminal",
+    "uieditorpath": "/root/hedera-hts-demo"
   },
   "backend": {
-    "imageid": "nodejs:12"
+    "imageid": "docker"
   }
 }

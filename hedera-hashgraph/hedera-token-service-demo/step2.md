@@ -1,8 +1,10 @@
-## 2.1 실습 소스 다운로드
+## 2.1 데모 소스 다운로드
 
-`\rm -rf hedera-hashgraph && git clone https://github.com/yunhochung/hedera-hashgraph.git `{{execute}}
+`\rm -rf hedera-hts-demo && git clone https://github.com/hashgraph/hedera-hts-demo.git `{{execute}}
 
-`cd hedera-hashgraph/hedera-token-service `{{execute}}
+`cd hedera-hts-demo `{{execute}}
+
+`cp .env.sample .env `{{execute}}
 
 `ls -a `{{execute}}
 
@@ -22,14 +24,16 @@ IDE 탭을 선택한 후 .env 파일을 오픈합니다. ***인터넷/PC 환경�
 
 ![1](https://github.com/yunhochung/katacoda-scenarios/raw/master/hedera-hashgraph/getting-started-with-hashgraph/images/5.png)
 
-## 2.3 Node.js 패키지(라이브러리) 설치
+## 2.3 빌드 & 실행
 
-실습에 필요한 패키지를 설치합니다.
+* Build
 
-* Hedera SDK 라이브러리 다운로드
+`docker-compose build `{{execute}}
 
-`npm install --save @hashgraph/sdk `{{execute}}
+* 실행
 
-* 유틸리티(js-joda, dotenv)  라이브러리 다운로드
+`docker-compose up `{{execute}}
 
-`npm install --save js-joda dotenv `{{execute}}
+## 2.4 UI 접속
+
+https://[[HOST_SUBDOMAIN]]-8080-[[KATACODA_HOST]].environments.katacoda.com
