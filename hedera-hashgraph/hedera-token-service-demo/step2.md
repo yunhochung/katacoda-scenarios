@@ -16,13 +16,13 @@ IDE 탭을 선택한 후 .env 파일을 오픈합니다. ***인터넷/PC 환경�
 
 * 로딩 후 초기 화면
 
-![1](https://github.com/yunhochung/katacoda-scenarios/raw/master/hedera-hashgraph/getting-started-with-hedera-token-service/images/1.png)
+![1](https://github.com/yunhochung/katacoda-scenarios/raw/master/hedera-hashgraph/hedera-token-service-demo/images/1.png)
 
 `.env `{{open}}
 
 .env 파일에 [Step 1]에 복사해 놓은 Account 정보를 설정합니다.
 
-![1](https://github.com/yunhochung/katacoda-scenarios/raw/master/hedera-hashgraph/getting-started-with-hashgraph/images/5.png)
+![1](https://github.com/yunhochung/katacoda-scenarios/raw/master/hedera-hashgraph/hedera-token-service-demo/images/2.png)
 
 ## 2.3 빌드 & 실행
 
