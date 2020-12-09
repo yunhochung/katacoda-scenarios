@@ -1,0 +1,29 @@
+{
+  "title": "Hedera Token Service(HTS) Demo",
+  "description": "Hedera Token Service (HTS) Demo",
+  "difficulty": "beginner",
+  "time": "30 minutes",
+  "details": {
+    "steps": [{
+      "title": "Step 1. Account 생성",
+      "text": "step1.md"
+    },
+    {
+      "title": "Step 2. 실습 환경 구성",
+      "text": "step2.md"
+    }
+  ],
+    "intro": {
+      "text": "intro.md",
+      "credits": ""
+    }
+  },
+  "environment": {
+    "hideHiddenFiles": false,
+    "showide": true,
+    "uilayout": "terminal"
+  },
+  "backend": {
+    "imageid": "nodejs:12"
+  }
+}
