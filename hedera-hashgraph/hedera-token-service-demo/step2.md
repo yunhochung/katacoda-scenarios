@@ -1,6 +1,6 @@
 ## 2.1 데모 소스 다운로드
 
-`\rm -rf hedera-hts-demo && git clone https://github.com/hashgraph/hedera-hts-demo.git `{{execute}}
+`\rm -rf hedera-hts-demo && git clone https://github.com/yunhochung/hedera-hts-demo.git `{{execute}}
 
 `cd hedera-hts-demo `{{execute}}
 
@@ -20,13 +20,17 @@ IDE 탭을 선택한 후 .env 파일을 오픈합니다. ***인터넷/PC 환경�
 
 `.env `{{open}}
 
-.env 파일에 [Step 1]에 복사해 놓은 Account 정보를 설정합니다.
+.env 파일에 [Step 1]에 복사해 놓은 Account와 Network 정보를 설정합니다.
+
+* VUE_APP_OPERATOR_ID: Account ID
+* VUE_APP_OPERATOR_KEY: Private Key
+* VUE_APP_NETWORK: https://[[HOST_SUBDOMAIN]]-80-[[KATACODA_HOST]].environments.katacoda.com
 
 ![1](https://github.com/yunhochung/katacoda-scenarios/raw/master/hedera-hashgraph/hedera-token-service-demo/images/2.png)
 
 ## 2.3 빌드 & 실행
 
-* Build
+* 빌드 - 빌드 시간이 수분에서 10분이상 소요됩니다.
 
 `docker-compose build `{{execute}}
 
