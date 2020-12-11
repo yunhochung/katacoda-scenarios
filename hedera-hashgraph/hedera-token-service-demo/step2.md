@@ -40,6 +40,12 @@ IDE 탭을 선택한 후 .env 파일을 오픈합니다. ***인터넷/PC 환경�
 
 ## 2.4 UI 접속
 
-http://[[HOST_SUBDOMAIN]]-8080-[[KATACODA_HOST]].environments.katacoda.com
+**UI URL - http://[[HOST_SUBDOMAIN]]-8080-[[KATACODA_HOST]].environments.katacoda.com**
 
-* 동영상 - https://youtu.be/t4FF1iepsYk?t=2713
+접속 후 초기화 과정이 진행됩니다. (**인터넷/PC 환경에 따라 초기화 시간이 1~10초 소요될 수 있습니다.**)
+
+정상적으로 초기화가 되면 화면 상단에 아래와 같이 3개의 계정(Account)가 생성됩니다.
+
+<img src="https://github.com/yunhochung/katacoda-scenarios/raw/master/hedera-hashgraph/hedera-token-service-demo/images/3.png" alt="3" style="zoom:50%;" />
+
+* UI 사용법 동영상 - https://youtu.be/t4FF1iepsYk?t=2713
