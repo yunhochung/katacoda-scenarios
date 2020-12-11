@@ -24,7 +24,7 @@ IDE 탭을 선택한 후 .env 파일을 오픈합니다. ***인터넷/PC 환경�
 
 * VUE_APP_OPERATOR_ID: Account ID
 * VUE_APP_OPERATOR_KEY: Private Key
-* VUE_APP_NETWORK: https://[[HOST_SUBDOMAIN]]-80-[[KATACODA_HOST]].environments.katacoda.com
+* VUE_APP_NETWORK: http://[[HOST_SUBDOMAIN]]-80-[[KATACODA_HOST]].environments.katacoda.com
 
 ![1](https://github.com/yunhochung/katacoda-scenarios/raw/master/hedera-hashgraph/hedera-token-service-demo/images/2.png)
 
