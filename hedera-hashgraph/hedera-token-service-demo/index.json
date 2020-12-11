@@ -23,6 +23,10 @@
     {
       "title": "Step 5. 토큰에 계정 연결",
       "text": "step5.md"
+    },
+    {
+      "title": "Step 6. KYC 부여(Grant)",
+      "text": "step6.md"
     }
   ],
     "intro": {
