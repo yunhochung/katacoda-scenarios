@@ -41,3 +41,8 @@
 
 <img src="https://github.com/yunhochung/katacoda-scenarios/raw/master/hedera-hashgraph/hedera-token-service-demo/images/7.png" alt="7" style="zoom:50%;" />
 
+
+
+돋보기 아이콘을 클릭하면 토큰 상세 정보를 볼 수 있습니다.
+
+<img src="https://github.com/yunhochung/katacoda-scenarios/raw/master/hedera-hashgraph/hedera-token-service-demo/images/8.png" alt="8" style="zoom:50%;" />
