@@ -40,4 +40,4 @@ IDE 탭을 선택한 후 .env 파일을 오픈합니다. ***인터넷/PC 환경�
 
 ## 2.4 UI 접속
 
-https://[[HOST_SUBDOMAIN]]-8080-[[KATACODA_HOST]].environments.katacoda.com
+http://[[HOST_SUBDOMAIN]]-8080-[[KATACODA_HOST]].environments.katacoda.com
