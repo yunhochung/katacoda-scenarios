@@ -15,3 +15,25 @@
 <img src="https://github.com/yunhochung/katacoda-scenarios/raw/master/hedera-hashgraph/hedera-token-service-demo/images/19.png" alt="19" style="zoom:50%;" />
 
 <img src="https://github.com/yunhochung/katacoda-scenarios/raw/master/hedera-hashgraph/hedera-token-service-demo/images/33.png" alt="스크린샷 2020-12-11 오후 5.41.26" style="zoom:50%;" />
+
+
+
+위와 동일한 방법으로 두번째 계정(0.0.145968)으로 2000 HJ 토큰을 전송합니다.
+
+<img src="https://github.com/yunhochung/katacoda-scenarios/raw/master/hedera-hashgraph/hedera-token-service-demo/images/34.png" alt="34" style="zoom:50%;" />
+
+<img src="https://github.com/yunhochung/katacoda-scenarios/raw/master/hedera-hashgraph/hedera-token-service-demo/images/35.png" alt="35" style="zoom:50%;" />
+
+<img src="https://github.com/yunhochung/katacoda-scenarios/raw/master/hedera-hashgraph/hedera-token-service-demo/images/36.png" alt="36" style="zoom:50%;" />
+
+
+
+토큰 전송 후 각 계정 별 토큰 밸런스는 아래와 같습니다.
+
+* 첫번째 계정(0.0.145967)
+
+<img src="https://github.com/yunhochung/katacoda-scenarios/raw/master/hedera-hashgraph/hedera-token-service-demo/images/37.png" alt="37" style="zoom:50%;" />
+
+* 두번째 계정(0.0.145968)
+
+<img src="https://github.com/yunhochung/katacoda-scenarios/raw/master/hedera-hashgraph/hedera-token-service-demo/images/38.png" alt="38" style="zoom:50%;" />
