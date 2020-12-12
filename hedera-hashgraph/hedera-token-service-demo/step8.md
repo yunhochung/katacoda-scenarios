@@ -6,7 +6,7 @@
 
 <img src="https://github.com/yunhochung/katacoda-scenarios/raw/master/hedera-hashgraph/hedera-token-service-demo/images/31.png" alt="31" style="zoom:50%;" />
 
-성공적으로 전송되면 화면 하단에 아래와 같은 메시지가 출력됩니다.
+성공적으로 전송되면 화면 하단에 아래와 같은 메시지가 출력됩니다. (**처리 시간이 1~10초 소요될 수 있습니다.**)
 
 <img src="https://github.com/yunhochung/katacoda-scenarios/raw/master/hedera-hashgraph/hedera-token-service-demo/images/32.png" alt="32" style="zoom:50%;" />
 
@@ -18,7 +18,7 @@
 
 
 
-위와 동일한 방법으로 두번째 계정(0.0.145968)으로 2000 HJ 토큰을 전송합니다.
+위와 동일한 방법으로 두번째 계정(0.0.145968)으로 2000 HJ 토큰을 전송합니다. (**처리 시간이 1~10초 소요될 수 있습니다.**)
 
 <img src="https://github.com/yunhochung/katacoda-scenarios/raw/master/hedera-hashgraph/hedera-token-service-demo/images/34.png" alt="34" style="zoom:50%;" />
 

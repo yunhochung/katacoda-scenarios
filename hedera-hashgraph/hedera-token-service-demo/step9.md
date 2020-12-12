@@ -14,7 +14,7 @@
 
 <img src="https://github.com/yunhochung/katacoda-scenarios/raw/master/hedera-hashgraph/hedera-token-service-demo/images/37.png" alt="37" style="zoom:50%;" />
 
-YH 토큰(Token 1) 10000(100.00) 과 HJ 토큰(Token 2) 500 을 교환(Swap)하기 위해 아래와 같이 입력 한 후 전송합니다.
+YH 토큰(Token 1) 10000(100.00) 과 HJ 토큰(Token 2) 500 을 교환(Swap)하기 위해 아래와 같이 입력 한 후 전송합니다. (**처리 시간이 1~10초 소요될 수 있습니다.**)
 
 <img src="https://github.com/yunhochung/katacoda-scenarios/raw/master/hedera-hashgraph/hedera-token-service-demo/images/39.png" alt="39" style="zoom:50%;" />
 

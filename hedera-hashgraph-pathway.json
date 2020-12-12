@@ -12,6 +12,11 @@
         "course_id": "getting-started-with-hedera-token-service",
         "title": "Hedera Token Service(HTS) 시작하기",
         "description": "Hedera Token Service(HTS) 시작하기(Getting Started with Hedera Token Service)"
+      },
+      {
+        "course_id": "hedera-token-service-demo",
+        "title": "Hedera Token Service(HTS) Demo",
+        "description": "Hedera Token Service(HTS) Demo"
       }
     ]
   }

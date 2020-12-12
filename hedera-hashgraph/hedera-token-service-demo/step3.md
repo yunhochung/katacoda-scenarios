@@ -35,7 +35,7 @@
 
 
 
-토큰을 생성하면 화면 하단에 아래와 같은 메시지가 출력되면서 화면에 YH 토큰이 표시됩니다.
+토큰을 생성하면 화면 하단에 아래와 같은 메시지가 출력되면서 화면에 YH 토큰이 표시됩니다.(**처리 시간이 1~10초 소요될 수 있습니다.**)
 
 <img src="https://github.com/yunhochung/katacoda-scenarios/raw/master/hedera-hashgraph/hedera-token-service-demo/images/6.png" alt="6" style="zoom:50%;" />
 

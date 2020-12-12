@@ -10,7 +10,7 @@ HJ 토큰 생성 시 초기 공급량(Supply)을 **0** 으로 설정했습니다
 
 <img src="https://github.com/yunhochung/katacoda-scenarios/raw/master/hedera-hashgraph/hedera-token-service-demo/images/27.png" alt="27" style="zoom:50%;" />
 
-공급량이 정상적으로 증가되면 화면 하단에 아래와 같은 메시지가 출력되고 화면에 공급량(Suppluy)이 20000으로 표시됩니다.
+공급량이 정상적으로 증가되면 화면 하단에 아래와 같은 메시지가 출력되고 화면에 공급량(Suppluy)이 20000으로 표시됩니다. (**처리 시간이 1~10초 소요될 수 있습니다.**)
 
 <img src="https://github.com/yunhochung/katacoda-scenarios/raw/master/hedera-hashgraph/hedera-token-service-demo/images/28.png" alt="28" style="zoom:50%;" />
 

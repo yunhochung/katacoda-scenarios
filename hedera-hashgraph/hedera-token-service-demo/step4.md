@@ -47,7 +47,7 @@
 
 <img src="https://github.com/yunhochung/katacoda-scenarios/raw/master/hedera-hashgraph/hedera-token-service-demo/images/13.png" alt="13" style="zoom:50%;" />
 
-위 절차로 토큰을 생성하면 토큰(기본) 생성과 동일하게 화면에 아래와 같이 표시됩니다. 
+위 절차로 토큰을 생성하면 토큰(기본) 생성과 동일하게 화면에 아래와 같이 표시됩니다. (**처리 시간이 1~10초 소요될 수 있습니다.**)
 
 <img src="https://github.com/yunhochung/katacoda-scenarios/raw/master/hedera-hashgraph/hedera-token-service-demo/images/14.png" alt="14" style="zoom:50%;" />
 
