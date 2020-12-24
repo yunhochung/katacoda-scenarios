@@ -5,3 +5,7 @@ Hedera Hashgraph는 빠르고 공정하고 안전한 애플리케이션 개발�
 
 * Hedera Token Service 시작하기 - https://katacoda.com/yunhochung/courses/hedera-hashgraph/getting-started-with-hedera-token-service
 * Hedera Token Service(HTS) Demo - https://github.com/hashgraph/hedera-hts-demo
+
+
+
+<u>***본 실습은 크롬 웹 브라우저(Chrome Web Browser)에 최적화되어 있습니다.***</u>

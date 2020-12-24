@@ -7,3 +7,6 @@ Hedera Hashgraph는 빠르고 공정하고 안전한 애플리케이션 개발�
 
 ![0](https://github.com/yunhochung/katacoda-scenarios/raw/master/hedera-hashgraph/getting-started-with-hashgraph/images/0.png)
 
+
+
+<u>***본 실습은 크롬 웹 브라우저(Chrome Web Browser)에 최적화되어 있습니다.***</u>

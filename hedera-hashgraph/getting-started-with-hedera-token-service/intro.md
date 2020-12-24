@@ -3,6 +3,12 @@ Hedera Hashgraph는 빠르고 공정하고 안전한 애플리케이션 개발�
 
 이번 강좌에서는 Hedera SDK(Node.js) 기반으로 **Hedera Token Service(HTS)**에 대한 실습으로 진행됩니다.
 
+<img src="https://github.com/yunhochung/katacoda-scenarios/raw/master/hedera-hashgraph/getting-started-with-hedera-token-service/images/3.png" alt="2" style="zoom:50%;" />
+
+<img src="https://github.com/yunhochung/katacoda-scenarios/raw/master/hedera-hashgraph/getting-started-with-hedera-token-service/images/4.png" alt="2" style="zoom:50%;" />
+
+<img src="https://github.com/yunhochung/katacoda-scenarios/raw/master/hedera-hashgraph/getting-started-with-hedera-token-service/images/2.png" alt="2" style="zoom:50%;" />
+
 * Hedera Token Service 소개 - https://hedera.com/token-service/
 * Tokenization on Hedera - https://www.slideshare.net/secret/xF68I8v87RECKC
 * Tokenization on Hedera Whitepaper - https://hedera.com/hh_tokenization-whitepaper_v1_20201207.pdf
@@ -12,3 +18,6 @@ Hedera Hashgraph는 빠르고 공정하고 안전한 애플리케이션 개발�
   * [Part 2](https://hedera.com/blog/get-started-with-the-hedera-token-service-part-2) - ADMINISTRATION FUNCTIONALITIES
   * [Part 3](https://hedera.com/blog/get-started-with-the-hedera-token-service-part-3) - COMPLIANCE FUNCTIONALITIES
 
+
+
+<u>***본 실습은 크롬 웹 브라우저(Chrome Web Browser)에 최적화되어 있습니다.***</u>
